@@ -6,3 +6,5 @@ pipeline{
           bat 'mvn package'
           }
       }
+    }
+}
